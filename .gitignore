@@ -1,1 +1,10 @@
 node_modules/
+
+# ignore all files starting with letter 'z'
+z*
+
+# ignore .env file
+.env
+
+# ignore TLD artifacts
+/artifacts
