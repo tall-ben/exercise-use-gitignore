@@ -7,4 +7,4 @@ z*
 .env
 
 # ignore TLD artifacts
-/artifacts
+/artifacts/
